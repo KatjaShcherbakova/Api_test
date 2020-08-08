@@ -8,6 +8,6 @@ public class Environment {
         videoStorageUrl = System.getProperty("video_storage_url");
     public static boolean
         isRemoteDriver = remoteDriverUrl != null,
-        isVideoOn = videoStorageUrl != null;
+//        isVideoOn = videoStorageUrl != null;
 }
 
